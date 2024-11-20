@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../Backend Developer"
+		},
+		{
+			"path": "../world+capitals+quiz"
+		},
+		{
+			"path": "../git,github,gitversion"
+		},
+		{
+			"path": "../8.2 Postgres Read"
+		},
+		{
+			"path": "../8.3 Travel Tracker"
+		},
+		{
+			"path": "../8.5 Family Travel Tracker"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
